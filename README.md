@@ -123,8 +123,6 @@ Venue-based team performance modeling
 
 Match outcome prediction models
 
-👤 Author
-
+## 👤 Author
 Pankaj Kumar Rajak
-📍 Aspiring Data Analyst
 🔗 LinkedIn: www.linkedin.com/in/pankaj-kumar-rajak-332269244
